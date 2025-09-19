@@ -1,5 +1,3 @@
-
-```javascript
 const LS_KEY = 'sb_leaderboard_v1';
 let room = null;
 let currentUser = null;
